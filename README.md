@@ -5,18 +5,18 @@ A self-paced journey to becoming a data scientist. Use the checkboxes to track y
 ---
 
 ## 📍 1. Introduction to Data Science
-- [x] Course overview and fundamentals  
-- [x] Data science workflow  
-- [x] Setup learning environment  
+- [X] Course overview and fundamentals  
+- [X] Data science workflow  
+- [X] Setup learning environment  
 
 ## 🧮 2. Data Analysis using NumPy
-- [ ] Why use NumPy  
-- [ ] Creating NumPy Arrays  
-- [ ] Indexing and Slicing  
-- [ ] Multidimensional Indexing and Axis  
-- [ ] Data Types in NumPy  
-- [ ] Broadcasting  
-- [ ] Built-in Mathematical Functions  
+- [X] Why use NumPy  
+- [X] Creating NumPy Arrays  
+- [X] Indexing and Slicing  
+- [X] Multidimensional Indexing and Axis  
+- [X] Data Types in NumPy  
+- [X] Broadcasting  
+- [X] Built-in Mathematical Functions  
 
 ## 🧾 3. Data Analysis using Pandas
 - [ ] Getting Started with Pandas  
