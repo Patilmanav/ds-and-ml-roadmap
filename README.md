@@ -5,9 +5,9 @@ A self-paced journey to becoming a data scientist. Use the checkboxes to track y
 ---
 
 ## 📍 1. Introduction to Data Science
-- [ ] Course overview and fundamentals  
-- [ ] Data science workflow  
-- [ ] Setup learning environment  
+- [x] Course overview and fundamentals  
+- [x] Data science workflow  
+- [x] Setup learning environment  
 
 ## 🧮 2. Data Analysis using NumPy
 - [ ] Why use NumPy  
